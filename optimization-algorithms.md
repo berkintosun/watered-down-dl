@@ -1,0 +1,1 @@
+So in deep learning, we have loss function and cost function for calculating performance and we have optimization algorithms that's main purpose is lowering the cost function so it calculates "..." and comes up with new weights for the features and we update it after each iteration

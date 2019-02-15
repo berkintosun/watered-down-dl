@@ -1,0 +1,1 @@
+Changing from sigmoid to RELU function for activation function, gradient descent will work much faster.
